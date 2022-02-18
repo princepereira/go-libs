@@ -1,3 +1,3 @@
-module github.com/princepereira/gomathlib
+module github.com/princepereira/go-libs
 
 go 1.13
