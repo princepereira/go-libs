@@ -1,3 +1,3 @@
-module go-math-lib
+module gomathlib
 
 go 1.13
