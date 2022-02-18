@@ -1,4 +1,4 @@
-# go-math-lib
+# go-libs
 Contains go libraries for math packages
 
 ### How to use it
